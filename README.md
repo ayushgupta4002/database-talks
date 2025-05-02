@@ -4,6 +4,8 @@
 
 ---
 
+Blog Link : https://medium.com/@ayush4002gupta/building-an-llm-agent-to-directly-interact-with-a-database-0c0dd96b8196
+
 ## 🚀 Features
 
 - 💬 Query your database using plain English.
@@ -31,3 +33,6 @@ Create a `.env` file in the root directory:
 ```env
 GOOGLE_API_KEY=your_google_gemini_api_key
 DATABASE_URL=your_postgres_connection_string
+
+![image](https://github.com/user-attachments/assets/668d8f4c-0e17-4544-9121-e2092cf4b29d)
+
